@@ -1,0 +1,74 @@
+C:\Users\Ashley\Downloads\sem 5\1lab\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.csproj.AssemblyReference.cache
+C:\Users\Ashley\Downloads\sem 5\1lab\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.bills.resources
+C:\Users\Ashley\Downloads\sem 5\1lab\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.loading.resources
+C:\Users\Ashley\Downloads\sem 5\1lab\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.login.resources
+C:\Users\Ashley\Downloads\sem 5\1lab\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.menu.resources
+C:\Users\Ashley\Downloads\sem 5\1lab\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.menuinvent.resources
+C:\Users\Ashley\Downloads\sem 5\1lab\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.showinvent.resources
+C:\Users\Ashley\Downloads\sem 5\1lab\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.signup.resources
+C:\Users\Ashley\Downloads\sem 5\1lab\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.csproj.GenerateResource.cache
+C:\Users\Ashley\Downloads\sem 5\1lab\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashley\Downloads\sem 5\1lab\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.AssemblyInfoInputs.cache
+C:\Users\Ashley\Downloads\sem 5\1lab\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.AssemblyInfo.cs
+C:\Users\Ashley\Downloads\sem 5\1lab\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.csproj.CoreCompileInputs.cache
+C:\Users\Ashley\Downloads\sem 5\1lab\Dbms Apk\tawa\tawa\bin\Debug\net6.0-windows\tawa.exe
+C:\Users\Ashley\Downloads\sem 5\1lab\Dbms Apk\tawa\tawa\bin\Debug\net6.0-windows\tawa.deps.json
+C:\Users\Ashley\Downloads\sem 5\1lab\Dbms Apk\tawa\tawa\bin\Debug\net6.0-windows\tawa.runtimeconfig.json
+C:\Users\Ashley\Downloads\sem 5\1lab\Dbms Apk\tawa\tawa\bin\Debug\net6.0-windows\tawa.dll
+C:\Users\Ashley\Downloads\sem 5\1lab\Dbms Apk\tawa\tawa\bin\Debug\net6.0-windows\tawa.pdb
+C:\Users\Ashley\Downloads\sem 5\1lab\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.dll
+C:\Users\Ashley\Downloads\sem 5\1lab\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\refint\tawa.dll
+C:\Users\Ashley\Downloads\sem 5\1lab\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.pdb
+C:\Users\Ashley\Downloads\sem 5\1lab\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.genruntimeconfig.cache
+C:\Users\Ashley\Downloads\sem 5\1lab\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\ref\tawa.dll
+C:\Users\Ashley\Downloads\sem 5\1lab\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.Properties.Resources.resources
+C:\Users\Ashley\Downloads\sem 5\1lab\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.edit_in.resources
+F:\Dbms Apk\tawa\tawa\bin\Debug\net6.0-windows\tawa.exe
+F:\Dbms Apk\tawa\tawa\bin\Debug\net6.0-windows\tawa.deps.json
+F:\Dbms Apk\tawa\tawa\bin\Debug\net6.0-windows\tawa.runtimeconfig.json
+F:\Dbms Apk\tawa\tawa\bin\Debug\net6.0-windows\tawa.dll
+F:\Dbms Apk\tawa\tawa\bin\Debug\net6.0-windows\tawa.pdb
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.csproj.AssemblyReference.cache
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.addinvent.resources
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.bills.resources
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.cart.resources
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.edit_in.resources
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.loading.resources
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.login.resources
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.menu.resources
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.menuinvent.resources
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.Properties.Resources.resources
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.showinvent.resources
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.Signup.resources
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.subinvent.resources
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.csproj.GenerateResource.cache
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.AssemblyInfoInputs.cache
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.AssemblyInfo.cs
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.csproj.CoreCompileInputs.cache
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.dll
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\refint\tawa.dll
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.pdb
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.genruntimeconfig.cache
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\ref\tawa.dll
+F:\Dbms Apk\tawa\tawa\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\Dbms Apk\tawa\tawa\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Dbms Apk\tawa\tawa\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\Dbms Apk\tawa\tawa\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\Dbms Apk\tawa\tawa\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Dbms Apk\tawa\tawa\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\Interop.TxAgg.dll
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\Interop.TxBDD.dll
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\Interop.TxSplit.dll
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\Interop.TxDataConvert.dll
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\Interop.TxDerived.dll
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\Interop.TxLookup.dll
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\Interop.OleDbSrc.dll
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.csproj.ResolveComReference.cache
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.csproj.CopyComplete
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.inventorymanagement.resources
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.restaurantmanagement.resources
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.enterdata.resources
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.viewdata.resources
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.updatedata.resources
+F:\Dbms Apk\tawa\tawa\obj\Debug\net6.0-windows\tawa.deldata.resources

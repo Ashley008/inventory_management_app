@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="addinvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="deldata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="edit_in.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bills.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="enterdata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="inventorymanagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="menuinvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="restaurantmanagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="showinvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="subinvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="updatedata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="viewdata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
